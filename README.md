@@ -1,3 +1,8 @@
+> [!CAUTION]
+> **Concordia has reached its end of life (October 2026).**
+>
+> Concordia was a proof of concept for one identity across many self-hosted chat servers. It showed the idea works, and other projects have since done it far better. The hosted app, Federation, Social and chat servers at concordiachat.com have been shut down, and this repository is no longer maintained. The code stays public for reference.
+
 # Concordia-Social
 
 Concordia-Social is the **friends and direct messaging service** for the [Concordia](https://github.com/Postman67/Concordia) network. It runs alongside the [Federation](https://github.com/Postman67/Concordia-Federation) and individual [Concordia Servers](https://github.com/Postman67/Concordia-Server), providing cross-server social features that don't belong to any single server instance.
